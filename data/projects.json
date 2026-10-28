@@ -1,0 +1,117 @@
+[
+  {
+    "id": "kep",
+    "name": "KEP.uz",
+    "site": "https://kep.uz/",
+    "repo": "kep-frontend",
+    "role": "Founder / Software Engineer",
+    "stack": "React · TypeScript · MUI · Django · PostgreSQL · Redis",
+    "en": "Programming workspaces, contests, learning and an isolated online judge.",
+    "uz": "Dasturlash ish maydonlari, musobaqalar, ta’lim va ajratilgan online judge.",
+    "ru": "Рабочие пространства, соревнования, обучение и изолированная проверка кода."
+  },
+  {
+    "id": "het-billing",
+    "name": "HET Billing",
+    "site": "https://cabinet.het.uz/",
+    "role": "Frontend Team Lead / Tech Lead · UZINFOCOM",
+    "stack": "Angular · TypeScript · RxJS · PrimeNG",
+    "en": "National electricity billing. Led 10 frontend engineers across connected applications.",
+    "uz": "Respublika elektr billingi. Bog‘liq ilovalarda 10 frontend dasturchiga rahbarlik.",
+    "ru": "Национальный биллинг электроэнергии. Руководство 10 frontend-разработчиками."
+  },
+  {
+    "id": "nexa",
+    "name": "Nexa TMS AI",
+    "site": "https://nexa-tms.ai/",
+    "role": "Frontend Lead → Senior Full-Stack · Newmax Group LLC",
+    "stack": "React · TypeScript · Go · REST APIs",
+    "en": "Transport operations, dispatch, maintenance, payroll and financial reporting.",
+    "uz": "Transport operatsiyalari, dispetcherlik, texnik xizmat, ish haqi va moliyaviy hisobotlar.",
+    "ru": "Транспортные операции, диспетчеризация, обслуживание, расчёты и финансовые отчёты."
+  },
+  {
+    "id": "cafe-postcode",
+    "name": "Cafe Postcode",
+    "site": "https://cafe-postcode.uz/",
+    "repo": "cafe-postcode-backend",
+    "role": "Sole developer",
+    "stack": "React · TypeScript · MUI · Django · Go",
+    "en": "Restaurant POS, operations, devices and offline synchronization. Used in 200+ branches.",
+    "uz": "Restoran POS’i, operatsiyalar, qurilmalar va oflayn sinxronlash. 200+ shoxobchada ishlaydi.",
+    "ru": "Ресторанный POS, операции, устройства и офлайн-синхронизация. Используется в 200+ филиалах."
+  },
+  {
+    "id": "energo-nazorat",
+    "name": "Energo Nazorat",
+    "site": null,
+    "role": "Full-Stack Engineer · UZINFOCOM",
+    "stack": "Angular · TypeScript · Django · DRF",
+    "en": "Energy monitoring and reporting, with Angular interfaces and Django services.",
+    "uz": "Energetika monitoringi va hisobotlari: Angular interfeyslari va Django xizmatlari.",
+    "ru": "Мониторинг энергетики и отчётность: интерфейсы Angular и сервисы Django."
+  },
+  {
+    "id": "smart-billing-360",
+    "name": "Smart Billing 360",
+    "site": null,
+    "role": "Frontend Engineer · K-Tech (Khorezm Tech)",
+    "stack": "Angular · TypeScript · REST APIs",
+    "en": "Hot-water, cold-water and electricity billing for buildings and apartments in Germany.",
+    "uz": "Germaniyadagi bino va xonadonlar uchun issiq suv, sovuq suv va elektr billingi.",
+    "ru": "Биллинг горячей и холодной воды, электроэнергии для зданий и квартир в Германии."
+  },
+  {
+    "id": "kuylab",
+    "name": "KuyLab",
+    "site": "https://kuylab.uz/",
+    "repo": "kuylab",
+    "role": "Independent product",
+    "stack": "React · TypeScript · Django · MIDI · Web Audio",
+    "en": "A piano learning studio with MIDI playback, score visualization and guided practice.",
+    "uz": "MIDI ijrosi, vizual notalar va bosqichli mashqlar bilan pianino o‘rganish studiyasi.",
+    "ru": "Обучение фортепиано: MIDI, визуализация нот и пошаговая практика."
+  },
+  {
+    "id": "deenly",
+    "name": "Deenly",
+    "site": "https://deenly.uz/",
+    "repo": "DeenlyBot",
+    "role": "Independent product",
+    "stack": "React · TypeScript · MUI · Django · aiogram",
+    "en": "Arabic learning, a library, calendar and reminders across the web and Telegram.",
+    "uz": "Arab tili, kutubxona, taqvim va eslatmalar — veb hamda Telegram’da umumiy profil.",
+    "ru": "Арабский язык, библиотека, календарь и напоминания в вебе и Telegram."
+  },
+  {
+    "id": "ioi-2026",
+    "name": "IOI 2026",
+    "site": "https://ioi2026.uz/",
+    "role": "Host Scientific Committee · Technical contribution",
+    "stack": "Linux · Python · Bash · GDB",
+    "en": "Contestant Linux environments, virtual machines, debugging and offline resources.",
+    "uz": "Ishtirokchi Linux muhitlari, virtual mashinalar, debugging va oflayn resurslar.",
+    "ru": "Linux-окружения участников, виртуальные машины, отладка и офлайн-ресурсы."
+  },
+  {
+    "id": "cp-uz",
+    "name": "cp.uz",
+    "site": "https://cp.uz/",
+    "source": "https://github.com/cp-uz/cp-uz",
+    "role": "Platform engineering",
+    "stack": "React · TypeScript · Django · Markdown",
+    "en": "Uzbek algorithms reference, learning paths and olympiad archives.",
+    "uz": "O‘zbekcha algoritmlar ma’lumotnomasi, o‘quv yo‘llari va olimpiada arxivi.",
+    "ru": "Справочник алгоритмов на узбекском языке, учебные маршруты и архив олимпиад."
+  },
+  {
+    "id": "kepscience",
+    "name": "KEPScience",
+    "site": "https://kep.science.uz/",
+    "role": "Independent product · In development",
+    "stack": "React · TypeScript · Django · DRF",
+    "en": "Interactive science: articles, concept maps, models and educational games. In development.",
+    "uz": "Interaktiv fan: maqolalar, tushunchalar atlasi, modellar va o‘quv o‘yinlari. Ishlab chiqilmoqda.",
+    "ru": "Интерактивная наука: статьи, атлас понятий, модели и учебные игры. В разработке."
+  }
+]
