@@ -1,0 +1,63 @@
+{
+  "observedDate": "2026-10-29",
+  "icpcRegionalTeamResults": [
+    {
+      "season": "2017–2018",
+      "rank": 1
+    },
+    {
+      "season": "2018–2019",
+      "rank": 2
+    },
+    {
+      "season": "2019–2020",
+      "rank": 1
+    }
+  ],
+  "educationInspectorate": {
+    "year": 2020,
+    "qualifier": "2020-04-26",
+    "final": "2020-05-09",
+    "category": "students",
+    "rank": 2,
+    "solved": 7,
+    "resultSource": "https://t.me/uztdi/1065",
+    "standings": "https://contest.yandex.ru/contest/18299/standings/"
+  },
+  "organizedEvents": [
+    {
+      "name": "KEP Junior Algorithmics",
+      "year": 2024,
+      "qualifiers": [
+        "2024-06-08",
+        "2024-06-16"
+      ],
+      "final": "2024-07-07",
+      "venue": "IT Park, Khorezm",
+      "participantsLowerBound": 200,
+      "announcedPrizeFundUZS": 20000000,
+      "resultSource": "https://t.me/KEPuzChannel/1156",
+      "announcementSource": "https://t.me/KEPuzChannel/1135",
+      "creditsSource": "https://t.me/KEPuzChannel/1159"
+    },
+    {
+      "name": "REVO CUP",
+      "year": 2025,
+      "partner": "REVO Global",
+      "qualifiers": [
+        "2025-03-29",
+        "2025-03-30"
+      ],
+      "final": "2025-04-05",
+      "venue": "IT Park, Urgench",
+      "tracks": [
+        "competitive programming",
+        "CTF"
+      ],
+      "reportedPrizeFundUZS": 80000000,
+      "announcementSource": "https://revolution.uz/uz/blog/revo-cup-2025-programming-and-cybersecurity-contest",
+      "creditsSource": "https://t.me/dev_story/766",
+      "recapSource": "https://t.me/RevolutionGlobalLLC/49"
+    }
+  ]
+}

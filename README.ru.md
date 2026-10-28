@@ -25,3 +25,5 @@
 В каждом описании указаны доступные исходники и ссылки на продукт.
 
 [GitHub](https://github.com/archon1999) · [Telegram](https://t.me/archon1999) · [Codeforces](https://codeforces.com/profile/Odminbey)
+
+[Организация олимпиад и результаты](community/olympiads.md)

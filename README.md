@@ -25,3 +25,5 @@ Software systems, from architecture to implementation: product interfaces, backe
 Public source links and product context are listed in each case study.
 
 [GitHub](https://github.com/archon1999) · [Telegram](https://t.me/archon1999) · [Codeforces](https://codeforces.com/profile/Odminbey)
+
+[Olympiad organization & competition record](community/olympiads.md)

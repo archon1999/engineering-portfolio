@@ -42,6 +42,10 @@ Public counters distinguish registered users, visible problems, contests and sub
 
 Observed **2026-10-29**, Asia/Tashkent. [Public API](https://kep.uz/api/landing-page-statistics) · [Snapshot data](../data/platform-snapshot.json).
 
+## Community and olympiads
+
+KEP.uz also provides a technical platform for organized competitions, including KEP Junior Algorithmics 2024 and REVO CUP 2025. [Event records and primary sources](../community/olympiads.md).
+
 ## Links
 
 - [Product website](https://kep.uz/)

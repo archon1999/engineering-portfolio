@@ -25,3 +25,5 @@ Dasturiy tizimlar — arxitekturadan amaliy yechimgacha: mahsulot interfeyslari,
 Har bir loyiha sahifasida ochiq kod va mahsulot havolalari bor.
 
 [GitHub](https://github.com/archon1999) · [Telegram](https://t.me/archon1999) · [Codeforces](https://codeforces.com/profile/Odminbey)
+
+[Olimpiadalar tashkilotchiligi va natijalar](community/olympiads.md)
