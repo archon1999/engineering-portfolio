@@ -32,16 +32,7 @@ The 200+ branch figure is the maintainer’s operating count for the broader pro
 
 ## High-level architecture
 
-```mermaid
-flowchart LR
-  POS[React POS] --> A[Local agent]
-  A --> DEV[Restaurant devices]
-  POS --> API[Django API]
-  A --> SYNC[Offline / synchronization path]
-  SYNC --> API
-  ADMIN[React administration] --> API
-  API --> DATA[(Operational data)]
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cafe-postcode-architecture-dark.svg"><img src="../assets/cafe-postcode-architecture-light.svg" alt="cafe-postcode — high-level system architecture" width="100%"></picture>
 
 ## Links
 

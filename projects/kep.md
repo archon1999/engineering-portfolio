@@ -32,17 +32,7 @@ Public counters distinguish registered users, visible problems, contests and sub
 
 ## High-level architecture
 
-```mermaid
-flowchart LR
-  U[Programming workspace] --> R[React / TypeScript]
-  R --> C[Typed API boundary]
-  C --> D[Django services]
-  D --> P[(PostgreSQL)]
-  D --> Q[Submission processing]
-  Q --> J[Isolated judge]
-  J --> V[Verdicts and results]
-  V --> U
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/kep-architecture-dark.svg"><img src="../assets/kep-architecture-light.svg" alt="kep — high-level system architecture" width="100%"></picture>
 
 ## Public platform data
 
