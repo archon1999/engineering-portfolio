@@ -37,9 +37,6 @@ The 200+ branch figure is the maintainer’s operating count for the broader pro
 ## Links
 
 - [Product website](https://cafe-postcode.uz/)
-- [Public source repository](https://github.com/archon1999/cafe-postcode-backend)
-- [POS client](https://github.com/archon1999/cafe-postcode-pos-frontend)
-- [Administration client](https://github.com/archon1999/cafe-postcode-admin-frontend)
 - [Nazarbek Baltabaev](https://github.com/archon1999)
 
 [← All projects](../README.md)

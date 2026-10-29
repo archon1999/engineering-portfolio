@@ -1,14 +1,13 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/kepscience-dark.svg"><img src="../assets/kepscience-light.svg" alt="KEPScience — Independent product · In development" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/kepscience-dark.svg"><img src="../assets/kepscience-light.svg" alt="KEPScience — Independent product" width="100%"></picture>
 
 # KEPScience
 
 **Interactive science as a learning product.**
 
-KEPScience is an independent platform in development for exploring scientific concepts through articles, models and educational games.
 
 | Role | Stack |
 | --- | --- |
-| Independent product · In development | React · TypeScript · Django · DRF |
+| Independent product | React · TypeScript · Django · DRF |
 
 ## Concepts
 
@@ -24,7 +23,7 @@ The platform is under development; its scope is presented as product work rather
 
 ## Links
 
-- [Product website](https://kep.science.uz/)
+- [Product website](https://science.kep.uz/)
 - [Nazarbek Baltabaev](https://github.com/archon1999)
 
 [← All projects](../README.md)

@@ -34,7 +34,6 @@
     "id": "cafe-postcode",
     "name": "Cafe Postcode",
     "site": "https://cafe-postcode.uz/",
-    "repo": "cafe-postcode-backend",
     "role": "Sole developer",
     "stack": "React · TypeScript · MUI · Django · Go",
     "en": "Restaurant POS, operations, devices and offline synchronization. Used in 200+ branches.",
@@ -62,6 +61,27 @@
     "ru": "Биллинг горячей и холодной воды, электроэнергии для зданий и квартир в Германии."
   },
   {
+    "id": "ioi-2026",
+    "name": "IOI 2026",
+    "site": "https://ioi2026.uz/",
+    "role": "Host Scientific Committee · Technical contribution",
+    "stack": "Linux · Python · Bash · GDB",
+    "en": "Contestant Linux environments, virtual machines, debugging and offline resources.",
+    "uz": "Ishtirokchi Linux muhitlari, virtual mashinalar, debugging va oflayn resurslar.",
+    "ru": "Linux-окружения участников, виртуальные машины, отладка и офлайн-ресурсы."
+  },
+  {
+    "id": "cp-uz",
+    "name": "cp.uz",
+    "site": "https://cp.uz/",
+    "source": "https://github.com/cp-uz/cp-uz",
+    "role": "Platform engineering",
+    "stack": "React · TypeScript · Django · Markdown",
+    "en": "Uzbek algorithms reference, learning paths and olympiad archives.",
+    "uz": "O‘zbekcha algoritmlar ma’lumotnomasi, o‘quv yo‘llari va olimpiada arxivi.",
+    "ru": "Справочник алгоритмов на узбекском языке, учебные маршруты и архив олимпиад."
+  },
+  {
     "id": "kuylab",
     "name": "KuyLab",
     "site": "https://kuylab.uz/",
@@ -84,34 +104,24 @@
     "ru": "Арабский язык, библиотека, календарь и напоминания в вебе и Telegram."
   },
   {
-    "id": "ioi-2026",
-    "name": "IOI 2026",
-    "site": "https://ioi2026.uz/",
-    "role": "Host Scientific Committee · Technical contribution",
-    "stack": "Linux · Python · Bash · GDB",
-    "en": "Contestant Linux environments, virtual machines, debugging and offline resources.",
-    "uz": "Ishtirokchi Linux muhitlari, virtual mashinalar, debugging va oflayn resurslar.",
-    "ru": "Linux-окружения участников, виртуальные машины, отладка и офлайн-ресурсы."
-  },
-  {
-    "id": "cp-uz",
-    "name": "cp.uz",
-    "site": "https://cp.uz/",
-    "source": "https://github.com/cp-uz/cp-uz",
-    "role": "Platform engineering",
-    "stack": "React · TypeScript · Django · Markdown",
-    "en": "Uzbek algorithms reference, learning paths and olympiad archives.",
-    "uz": "O‘zbekcha algoritmlar ma’lumotnomasi, o‘quv yo‘llari va olimpiada arxivi.",
-    "ru": "Справочник алгоритмов на узбекском языке, учебные маршруты и архив олимпиад."
-  },
-  {
     "id": "kepscience",
     "name": "KEPScience",
-    "site": "https://kep.science.uz/",
-    "role": "Independent product · In development",
+    "site": "https://science.kep.uz/",
+    "role": "Independent product",
     "stack": "React · TypeScript · Django · DRF",
-    "en": "Interactive science: articles, concept maps, models and educational games. In development.",
-    "uz": "Interaktiv fan: maqolalar, tushunchalar atlasi, modellar va o‘quv o‘yinlari. Ishlab chiqilmoqda.",
-    "ru": "Интерактивная наука: статьи, атлас понятий, модели и учебные игры. В разработке."
+    "en": "Interactive science: articles, concept maps, models and educational games.",
+    "uz": "Interaktiv fan: maqolalar, tushunchalar atlasi, modellar va o‘quv o‘yinlari.",
+    "ru": "Интерактивная наука: статьи, атлас понятий, модели и учебные игры."
+  },
+  {
+    "id": "rokirovka",
+    "name": "Rokirovka.uz",
+    "site": "https://rokirovka.uz/",
+    "repo": "rokirovka",
+    "role": "Independent development / Software Engineer",
+    "stack": "React · TypeScript · Django · MUI · Stockfish",
+    "en": "Uzbek chess lessons, tactical puzzles, games, tournaments and Stockfish analysis.",
+    "uz": "O‘zbekcha shaxmat darslari, taktik masalalar, o‘yinlar, turnirlar va Stockfish tahlili.",
+    "ru": "Уроки шахмат на узбекском, тактические задачи, игры, турниры и анализ Stockfish."
   }
 ]
